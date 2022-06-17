@@ -1,7 +1,7 @@
 # commit-messages-emojis
 Templates for commit messages
 
-- 🐛bug:
+- 🐛fix:
 - 🎨style:
 - ✨feat:
 - 📝docs:
